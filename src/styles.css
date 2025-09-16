@@ -1,1 +1,26 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+main{
+    text-align: center;
+}
+header{
+    box-shadow: 3px 3px 10px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+nav{
+    align-items: left;
+    justify-content: left;
+    text-align: left;
+}
+a{
+    text-decoration-line: none;
+    padding:0px 20px;
+}
